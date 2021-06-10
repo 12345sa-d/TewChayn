@@ -51,6 +51,6 @@ export default class ME implements IUser {
 
 ```
 ## Stats 📈
-![Well](https://github-readme-stats.vercel.app/api?username=alensaito1&theme=dark&show_icons=true)
+![Well](https://github-readme-stats.vercel.app/api?username=tew-chaynz&theme=dark&show_icons=true)
 ## Top Languages 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alensaito1&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tew-chaynz&theme=dark)

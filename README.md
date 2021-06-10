@@ -1,16 +1,41 @@
-### Hi there 👋
+import { contact, IUser } from './github'
 
-<!--
-**Tew-Chaynz/Tew-Chaynz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+export default class ME implements IUser {
+    public static firstName = 'Kevin'
+    public static lastName = 'Antonio'
+    public static username = 'TewChaynz'
+    public static website = 'None'
+    public static aliases = ['TewChaynz Dev']
+    public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL']
+    public static info = {
+        age: 20,
+        country: 'Germany',
+        org: 'None',
+        likes: ['TypeScript', 'Nanatsu No Taizai', 'Well.....'],
+        hobbies: ['Program', 'To Smoke', 'Music'],
+        reach: [
+            {
+                name: contact.WhatsApp,
+                url: 'https://wa.me/+50768666666?text=Well...'
+            }
+        ]
+    }
+    public static projects = [
+        {
+            name: 'tewfiles',
+            homepage: 'https://github.com/tewfiles',
+            repo: 'none',
+            language: 'none',
+            ongoing: true
+        },
+        {
+            name: 'wa-sticker-tew',
+            homepage: 'https://www.npmjs.com/package/wa-sticker-tew',
+            repo: 'https://github.com/Tew-Chaynz/wa-sticker-tew',
+            language: 'TypeScript',
+            ongoing: true
+        }
+    ]
+}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

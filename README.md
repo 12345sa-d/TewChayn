@@ -1,3 +1,13 @@
+<div align=center>
+
+![Me](https://i.ibb.co/23CBPfS/chaynz.jpg)
+
+### Me ⬆
+</div>
+
+## About Me 🎋
+
+```TypeScript
 import { contact, IUser } from './github'
 
 export default class ME implements IUser {
@@ -39,3 +49,8 @@ export default class ME implements IUser {
 }
 
 
+```
+## Stats 📈
+![Well](https://github-readme-stats.vercel.app/api?username=alensaito1&theme=dark&show_icons=true)
+## Top Languages 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alensaito1&theme=dark)

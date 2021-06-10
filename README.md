@@ -1,6 +1,6 @@
 <div align=center>
 
-![Me](https://i.ibb.co/23CBPfS/chaynz.jpg)
+![Me](https://i.ibb.co/563rK2k/blackpink-1.jpg)
 
 ### Me ⬆
 </div>

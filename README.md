@@ -26,7 +26,7 @@ export default class ME implements IUser {
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/+50768666666?text=Well...'
+                url: 'https://wa.me/+50766666666?text=Well...'
             }
         ]
     }

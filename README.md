@@ -1,10 +1,3 @@
-<div align=center>
-
-![Me](https://i.ibb.co/LQ4DnbP/mamama.jpg)
-
-### Me ⬆
-</div>
-
 ## About Me 🎋
 
 ```TypeScript

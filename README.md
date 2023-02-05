@@ -14,7 +14,7 @@ export default class ME implements IUser {
         age: 21,
         country: 'Panama',
         org: 'None',
-        likes: ['TypeScript', 'Nanatsu No Taizai', 'Well.....'],
+        likes: ['Nanatsu No Taizai', 'Well.....'],
         hobbies: ['Program', 'To Smoke', 'Music'],
         reach: [
             {

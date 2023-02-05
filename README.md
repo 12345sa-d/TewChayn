@@ -7,7 +7,7 @@ export default class ME implements IUser {
     public static firstName = 'Kevin'
     public static lastName = 'Antonio'
     public static username = 'TewChaynz'
-    public static website = 'None'
+    public static website = 'https://kevxnl.xyz'
     public static aliases = ['TewChaynz Dev']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL']
     public static info = {

@@ -11,8 +11,8 @@ export default class ME implements IUser {
     public static aliases = ['TewChaynz Dev']
     public static skills = ['TypeScript', 'JavaScript', 'NodeJS', 'C', 'EJS', 'Express', 'NoSQL']
     public static info = {
-        age: 20,
-        country: 'Germany',
+        age: 21,
+        country: 'Panama',
         org: 'None',
         likes: ['TypeScript', 'Nanatsu No Taizai', 'Well.....'],
         hobbies: ['Program', 'To Smoke', 'Music'],
@@ -36,6 +36,13 @@ export default class ME implements IUser {
             homepage: 'https://www.npmjs.com/package/wa-sticker-tew',
             repo: 'https://github.com/Tew-Chaynz/wa-sticker-tew',
             language: 'TypeScript',
+            ongoing: true
+        },
+        {
+            name: 'redirect-url',
+            homepage: 'https://github.com/Tew-Chaynz/redirect-url#readme',
+            repo: 'https://github.com/Tew-Chaynz/redirect-url',
+            language: 'html',
             ongoing: true
         }
     ]
